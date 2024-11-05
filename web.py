@@ -2,7 +2,7 @@
 import streamlit as st
 from PIL import Image
 
-st.set_page_config(page_title="My Webpage", page_icon=":ringed_planet:", layout="wide")
+st.set_page_config(page_title="SpaceWeight", page_icon=":ringed_planet:", layout="wide")
 def local_css(file_name) :
    with open(file_name) as f:
        st.markdown(f"<style>{f.read() }</style>", unsafe_allow_html=True)
@@ -14,6 +14,7 @@ with st.container():
     st.subheader("Hi, I am Dhruv :wave:")
     st.title("A Student From India")
     st.write("I am passionate about learning tech and coding")
+    st.write("This website will go beyond your imagination :explodinng_head::explodinng_head:)
     st.write("[My YT Channel >](http://www.youtube.com/@dhruv09.)")
 
 #----What the website do for you----
@@ -88,7 +89,7 @@ if st.button("Calculate"):
 
 with st. container():
     st.write(" --- ")
-    st.header("Get In Touch With Me!")
+    st.header(":open_mailbox_with_raised_flag: Get In Touch With Me!")
     st.write("##")
 # Documention: https://formsubmit.co/ ||| CHANGE EMAIL ADDRESS !!!
     contact_form = """
