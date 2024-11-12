@@ -30,7 +30,7 @@ with st.container():
             - is about checking what will be your weight on other planets.
             - is made up using python.
             - is user friendly.
-            - is hosted by "Streamlit", special thanks to streamlit.
+            - is hosted by 'Streamlit', special thanks to streamlit.
             """
         )
         st.write("My gmail: dhruvchaudhari468@gmail.com")
