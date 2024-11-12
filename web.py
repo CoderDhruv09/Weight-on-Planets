@@ -14,7 +14,7 @@ with st.container():
     st.subheader("Hi, I am Dhruv :wave:")
     st.title("A Student From India")
     st.write("I am passionate about learning tech and coding")
-    st.write("This website will go beyond your imagination :explodinng_head::explodinng_head:)
+    st.write("This website will go beyond your imagination :exploding_head::exploding_head:)
     st.write("[My YT Channel >](http://www.youtube.com/@dhruv09.)")
 
 #----What the website do for you----
