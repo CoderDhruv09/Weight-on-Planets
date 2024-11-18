@@ -38,7 +38,7 @@ with st.container():
             img = Image.open("coding.png")
             st.image(
             img ,
-            width = 470
+            width = 450
             )
 
 
