@@ -89,7 +89,7 @@ if st.button("Calculate"):
 
 with st. container():
     st.write(" --- ")
-    st.header("Get In Touch With Me!")
+    st.header("Get In Touch With Me!!")
     st.write("##")
 # Documention: https://formsubmit.co/ ||| CHANGE EMAIL ADDRESS !!!
     contact_form = """
