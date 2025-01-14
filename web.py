@@ -22,11 +22,11 @@ with st.container():
     st.write("---")
     left_column, right_column = st.columns(2)
     with left_column:
-        st.header("About the App")
+        st.header("About the Website")
         st.write("##")
         st.write(
             """
-            This App:
+            This Website:
             - is about checking what will be your weight on other planets.
             - is made up using python.
             - is user friendly.
