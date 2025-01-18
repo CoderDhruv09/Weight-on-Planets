@@ -109,5 +109,5 @@ with right_column:
     img = Image.open("2477772.png")
     st.image(
     img ,
-    width = 100
+    width = 250
     )
