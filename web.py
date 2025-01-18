@@ -106,4 +106,8 @@ with left_column:
     with left_column:
         st.markdown(contact_form, unsafe_allow_html=True)
 with right_column:
-    st.empty()
+    img = Image.open("2477772.png")
+            st.image(
+            img ,
+            width = 450
+            )
